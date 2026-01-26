@@ -1,5 +1,5 @@
 # LLM-AICC-Call-Center
-呼叫中心，大模型呼叫中心，大语言模型呼叫中心，对接主流大模型引擎，RAG，实现大语言模型呼叫中心。
+呼叫中心，大模型呼叫中心，大语言模型呼叫中心，对接主流大模型引擎，RAG，实现大语言模型呼叫中心！
 
 # 部分功能截图
 <img width="1335" height="585" alt="image" src="https://github.com/user-attachments/assets/82032c2b-a2dc-4b1e-8c7e-eb7dd37920ba" />
@@ -9,6 +9,8 @@
 
 
 # - 📫 How to reach us 📫:
+软件开发多年，项目经验足，为避免被电话诈骗团伙使用代码，单单审核用途，敬请理解！
+联系微信：
 微信01:freeipcc
 微信02:freeaicc
 微信03:easyaicc
